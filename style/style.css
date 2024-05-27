@@ -142,6 +142,17 @@ body {
     margin: 0;
 }
 
+.imagens-projetos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.imagens-projetos img {
+    width: 300px;
+    height: auto;
+}
+
 .rodape {
     padding: 24px;
     color: #f6f6f6;
